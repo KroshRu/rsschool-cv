@@ -9,7 +9,7 @@
 ### About myself
 
 I started to work as a tester, after some years changed profession to IT-analytic. And now I'm a product owner. We with team do medtech app. 
-I like to try new things in my job and other spheres of life. My hobby is running and trip in mountains. Also, I like the russian north nature and dogs:)
+I like to try new things in my job and other spheres of life. My hobby is running and hiking in mountains. Also, I like the russian north nature and dogs:)
 
 
 ====
@@ -31,13 +31,13 @@ const joinNumbersFromRange = (x,y) => {
 
 ============
 
-### Code example
+### Education
 
 * Yaroslavl State University, 'Computer security'
 * AgileDays
 * GoPractice
 
-### Languuages:
+### Languages:
 
 * English - B1
 * Russin - native
