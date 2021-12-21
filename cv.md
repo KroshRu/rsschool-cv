@@ -1,11 +1,20 @@
 # Antonova Alena
 * telegram: @ale_aalena
 * discord: @ale_aalena
+
+
 ====
+
+
 ### About myself
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+
+I started to work as a tester, after some years changed profession to IT-analytic. And now I'm a product owner. We with team do medtech app. 
+I like to try new things in my job and other spheres of life. My hobby is running and trip in mountains. Also, I like the russian north nature and dogs:)
+
+
 ====
+
+
 ### Code example
 ```
 const joinNumbersFromRange = (x,y) => {
@@ -19,7 +28,16 @@ const joinNumbersFromRange = (x,y) => {
   return result;
 }
 ```
-====
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+
+============
+
+### Code example
+
+* Yaroslavl State University, 'Computer security'
+* AgileDays
+* GoPractice
+
+### Languuages:
+
+* English - B1
+* Russin - native
